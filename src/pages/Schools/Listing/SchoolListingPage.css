@@ -1,0 +1,30 @@
+.school-listing-banner {
+    height: 500px;
+    overflow-y: hidden;
+    border-bottom: 3px solid #f0f0f0;
+}
+
+.school-listing-img {
+    width: 100%;
+}
+
+.school-listing-h1 {
+    color: #052470;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.school-listing-edit {
+    text-decoration: none;
+    background-color: #052470;
+    color: white;
+    border-radius: 100px;
+    width: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    display: block;
+    position: fixed;
+    right: 50px;
+    margin-top: 25px;
+}

@@ -1,0 +1,41 @@
+.school-listing-container {
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.school-listing {
+    border-radius: 30px;
+    overflow: hidden;
+    background-color: #fafafa;
+    letter-spacing: 0.02rem;
+}
+
+.school-listing a {
+    text-decoration: none;
+    color: #555;
+}
+
+.school-listing:hover {
+    background-color: #f3f3f3;
+}
+
+.school-listing a:hover {
+    color: black;
+}
+
+.school-listing-image {
+    width: 100%;
+    height: 240px;
+    max-height: 240px;
+    overflow: hidden;
+}
+
+.school-listing-image img {
+    height: 100%;
+    width: auto;
+}
+
+.school-listing-name {
+    padding: 8px 0;
+    text-align: center;
+}
