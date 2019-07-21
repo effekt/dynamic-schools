@@ -6,6 +6,8 @@ This application is meant to allow for the creation of schools with a few simple
 
 Login information is not persistent to allow for quick testing and demoing between the accounts.
 
+The backend (API) can be found here [Dynamic Schools API](https://github.com/effekt/dynamic-schools-api)
+
 Accounts:
 
 educator1@schools.com: p@ssw0rd
