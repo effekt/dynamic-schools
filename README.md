@@ -9,5 +9,7 @@ Login information is not being store in the browser to allow for quick testing a
 Accounts:
 
 educator1@schools.com: p@ssw0rd
+
 educator2@schools.com: p@ssw0rd
+
 parent@schools.com: p@ssw0rd
